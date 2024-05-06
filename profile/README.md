@@ -58,8 +58,7 @@
 
 | Website     | Language | Members
 |-------------|----------|----------
-| [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ps34kpro)     | [Portuguese](https://t.me/ps34kpro) | 455
-| [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ps34kpro_universal)     | [English](https://t.me/ps34kpro_universal) | 6
+| [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ps34kpro)     | [Portuguese/English](https://t.me/ps34kpro) | 3000
 
 </br>
 </br>

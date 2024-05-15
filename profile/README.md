@@ -91,8 +91,3 @@
  <a href="https://t.me/LuanVATeles" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/telegram-%2326A5E4?&style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  
-</br>
-</br>
- 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=PS3-4K-Pro.visitor-badge&left_text=My%20Page%20Visitors)

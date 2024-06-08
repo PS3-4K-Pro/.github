@@ -93,5 +93,4 @@
   </a>
 
 ```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; opacity: 0.5; background: url('https://github-production-user-asset-6210df.s3.amazonaws.com/23272064/337831825-5908c37f-a479-4581-9fcb-50ce1ecceade.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240608%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240608T052921Z&X-Amz-Expires=300&X-Amz-Signature=11d99c63f48e534a5f057cd02c5547824e9f1c5d78f3d8b3a733924a23929b6e&X-Amz-SignedHeaders=host&actor_id=110236244&key_id=0&repo_id=439693383?raw=true' repeat;]{x0000}$}
-```
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://wallpapers.com/images/hd/4k-playstation-blue-desktop-bdz9lmabdwon5083.jpg?raw=true');]{x0000}$}

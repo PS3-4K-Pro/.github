@@ -94,6 +94,5 @@
 
 ```math
 ```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.5; background: url('https://github.com/PS3-4K-Pro/.github/assets/110236244/e9ffb3a4-0c28-4f56-b5ca-70680be298f8
-?raw=true');]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.5; background: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b68efe81-226b-4bb6-bdab-b706497c230f/d80d9ax-ec3c3280-955f-4d7c-904e-20918ac772cf.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2I2OGVmZTgxLTIyNmItNGJiNi1iZGFiLWI3MDY0OTdjMjMwZlwvZDgwZDlheC1lYzNjMzI4MC05NTVmLTRkN2MtOTA0ZS0yMDkxOGFjNzcyY2YucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.E_iBHbkAOm-okf9jRtPo3dQU3Lg2H_G8GjWqNx5fGKA?raw=true');]{x0000}$}
 ```

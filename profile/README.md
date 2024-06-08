@@ -91,3 +91,6 @@
  <a href="https://t.me/LuanVATeles" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/telegram-%2326A5E4?&style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
+
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/Yagasaki7K/yagasaki7k/assets/23272064/5908c37f-a479-4581-9fcb-50ce1ecceade?raw=true');]{x0000}$}

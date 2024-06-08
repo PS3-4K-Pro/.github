@@ -94,6 +94,6 @@
 
 ```math
 ```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; opacity: 0.5; background: url('https://github.com/PS3-4K-Pro/.github/assets/110236244/442774e7-e34e-4120-b28c-6949ec90ce57)
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; opacity: 0.5; background: url('https://github.com/PS3-4K-Pro/.github/assets/110236244/442774e7-e34e-4120-b28c-6949ec90ce57
 ?raw=true' repeat;]{x0000}$}
 ```

@@ -94,5 +94,6 @@
 
 ```math
 ```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.5; background: url('https://www.google.com/url?sa=i&url=https://as2.ftcdn.net/v2/jpg/03/37/08/65/1000_F_337086574_uXbsZ1Hp8ct74pDsH7zauxXSMo9kNlX7.jpg?raw=true');]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.5; background: url('![image](https://github.com/PS3-4K-Pro/.github/assets/110236244/e9ffb3a4-0c28-4f56-b5ca-70680be298f8)
+?raw=true');]{x0000}$}
 ```

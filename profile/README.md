@@ -18,7 +18,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=Mamba&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/Mamba)
 
 ## ⚡Plugins
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=xmb_plugin&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/xmb_plugin)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=XMB-Plugin&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/XMB-Plugin)
 
 ## 📉 Databases
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=Firmware-Updates&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/Firmware-Updates)

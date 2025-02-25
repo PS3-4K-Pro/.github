@@ -47,7 +47,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=PSX-Place&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/PSX-Place)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=ScreenSavers&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/ScreenSavers)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=Servers&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/Servers)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=SoundTracks&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/SoundTracks)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=Themes&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/Themes)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=Wallpapers&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/Wallpapers)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=Whats-New&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/Whats-New)

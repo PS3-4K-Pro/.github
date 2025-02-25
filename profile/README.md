@@ -24,7 +24,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=Remote-Play&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/Remote-Play)
 
 ## 📚 Databases
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=License-Files&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/License-Files)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=Firmware-Updates&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/Firmware-Updates)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=Game-Cheats&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/Game-Cheats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=Performance-Patches&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/Performance-Patches)
@@ -49,7 +48,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=ScreenSavers&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/ScreenSavers)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=Servers&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/Servers)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=SoundTracks&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/SoundTracks)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=Stores&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/Stores)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=Themes&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/Themes)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=Wallpapers&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/Wallpapers)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=Whats-New&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/Whats-New)

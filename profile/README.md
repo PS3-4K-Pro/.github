@@ -49,19 +49,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=Whats-New&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/Whats-New)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=Xil&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/Xil)
 
-## 📫 Support
-</br>
-</br>
-
-***Discussion and Support can be found on Telegram.***
-
-</br>
-</br>
-
-| Website     | Language | Members
-|-------------|----------|----------
-| [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ps34kpro)     | [Portuguese/English](https://t.me/ps34kpro) | 3000
-
 </br>
 </br>
 
@@ -72,27 +59,3 @@
 <img align="center" alt="GIF" src="https://luanteles.github.io/PS3-4K-Pro/media/img/coding.gif" width="308" height="218" />
 
 </br>
-
-**You can reach me on**
-</br>
-  <a href="mailto:luan.teles@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/email%20me%20here-%23EA4335?&style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/PS3-4K-Pro" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2?&style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-   <a href="https://facebook.com/luan.teles.5" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://instagram.com/luanteles" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F?&style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-<!-- <a href="https://linkedin.com/in/luanteles" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a> -->
- <a href="https://t.me/LuanVATeles" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/telegram-%2326A5E4?&style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-
-```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://wallpapers.com/images/hd/4k-playstation-blue-desktop-bdz9lmabdwon5083.jpg?raw=true');]{x0000}$}
